@@ -4,6 +4,12 @@ app_publisher = "Eng/Abdulah Selim"
 app_description = "accounting app published by instatech company"
 app_email = "abdollah.500148@gmail.com"
 app_license = "mit"
+
+
+
+app_include_js = "/assets/finance_app/js/index-C8XOVCde.js"
+app_include_css = "/assets/finance_app/css/index-B4AFRmTJ.css"
+
 # required_apps = []
 
 # Includes in <head>
